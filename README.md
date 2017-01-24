@@ -79,27 +79,6 @@ I have also been using this directory as a place to store proofs, reference file
 
 A directory of development tools that are specific to this typeface.
 
-## /website
-
-If you are developing a minisite, you can put the files for that here. 
-
-If you would like to use this website on GitLab's servers (at least as a playground), add `.gitlab-ci.yml` to the project’s root directory. The URL for this website is [http://*username*.gitlab.com/*your_font_name*](http://djrrb.gitlab.com/sample_font).
-
-Here is a sample `.gitlab-ci.yml` file, that will run a build to create the website from the `/website` diretory when the repository is updated.
-
-    pages:
-      stage: deploy
-      script:
-      - cp -r website .public
-      - mv .public public
-      artifacts:
-        paths:
-        - public
-      only:
-      - master
-
-## Other files in the root directory
-
 ### README.md
 
 A space for basic information about the typeface.
