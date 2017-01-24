@@ -9,6 +9,7 @@ This is a place for Type Network folk to mess around, risk-free, with GitHub. Tr
 * Add a {sups} and {sinf} feature
 * Add a light weight
 * Save a build to the `/fonts` folder
+* Open an issue and assign it to someone
 
 ## Advanced things to try
 
