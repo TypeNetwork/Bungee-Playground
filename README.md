@@ -2,6 +2,33 @@
 
 This is a place for Type Network folk to mess around, risk-free, with GitHub. Try stuff out!
 
+## Things to try:
+
+* Add some new glyphs
+* Add some new kern pairs
+* Add a {sups} and {sinf} feature
+* Add a light weight
+* Save a build to the `/fonts` folder
+
+## Advanced things to try
+
+* Create a new branch
+* Submit a pull request
+* Fork the repository
+
+## Process
+
+* Install [GitHub Desktop](http://desktop.github.com)
+* Hit "Clone or Download" and then "Open in Desktop"
+* Select a local path for the repository
+* If you cloned it a while ago, hit Sync or `cmd+s` to get the latest version.
+* Make changes to the repository
+* See the exact files and lines you changed appear in the "Uncommitted changes" panel
+* Enter a commit message for these changes and hit "Commit to master" or `cmd+Enter`. This commits the change to your local repo, but not to the cloud.
+* Once committed, sync your local repository with the one on the cloud. Push the button in the top right or hit `cmd+s`. This will pull any other updates from the cloud, and then push your updates to the cloud. If there are any discrepancies, a message will appear and tell you where they are.
+
+## About the repository
+
 This uses my [sample font repository](https://github.com/djrrb/sample-font-repository), based on the [Unified Font Repository v2.0](https://github.com/raphaelbastide/Unified-Font-Repository), a standard way to organize font project source files. I have expanded upon this structure to make something that generally works for me.
 
 I have adopted this structure because it keeps my project folders organized and predictable. Knowing nothing about a font or its development, I can come to a repository and have a sense of where the latest and greatest fonts are, and what the family is like. It allows me to write scripts that can make assumptions about where the latest masters are and where the fonts should go.
