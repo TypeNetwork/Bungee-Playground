@@ -1298,17 +1298,17 @@
 		<string>OE</string>
 		<string>Tbar</string>
 		<string>commaaccent</string>
-		<string>zero</string>
-		<string>one</string>
-		<string>two</string>
-		<string>three</string>
-		<string>four</string>
-		<string>five</string>
-		<string>six</string>
-		<string>seven</string>
-		<string>eight</string>
-		<string>nine</string>
-		<string>numbersign</string>
+		<string>zero.lc</string>
+		<string>one.lc</string>
+		<string>two.lc</string>
+		<string>three.lc</string>
+		<string>four.lc</string>
+		<string>five.lc</string>
+		<string>six.lc</string>
+		<string>seven.lc</string>
+		<string>eight.lc</string>
+		<string>nine.lc</string>
+		<string>numbersign.lc</string>
 		<string>percent</string>
 		<string>perthousand</string>
 		<string>quotesingle</string>

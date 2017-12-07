@@ -216,6 +216,8 @@
 	<string>Etilde_.glif</string>
 	<key>Euro</key>
 	<string>Euro_.glif</string>
+	<key>Euro.lc</key>
+	<string>Euro_.lc.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -852,12 +854,16 @@
 	<string>cdotaccent.glif</string>
 	<key>cedi</key>
 	<string>cedi.glif</string>
+	<key>cedi.lc</key>
+	<string>cedi.lc.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
 	<key>cedillacmb</key>
 	<string>cedillacmb.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
+	<key>cent.lc</key>
+	<string>cent.lc.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflexacute</key>
@@ -874,6 +880,8 @@
 	<string>colon.glif</string>
 	<key>colonsign</key>
 	<string>colonsign.glif</string>
+	<key>colonsign.lc</key>
+	<string>colonsign.lc.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
 	<key>commaaccent</key>
@@ -886,6 +894,8 @@
 	<string>copyright.glif</string>
 	<key>currency</key>
 	<string>currency.glif</string>
+	<key>currency.lc</key>
+	<string>currency.lc.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>dagger</key>
@@ -912,8 +922,12 @@
 	<string>dlinebelow.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
+	<key>dollar.lc</key>
+	<string>dollar.lc.glif</string>
 	<key>dong</key>
 	<string>dong.glif</string>
+	<key>dong.lc</key>
+	<string>dong.lc.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
 	<key>dotaccentcmb</key>
@@ -956,6 +970,8 @@
 	<string>ehookabove.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>eight.lc</key>
+	<string>eight.lc.glif</string>
 	<key>eight.sinf</key>
 	<string>eight.sinf.glif</string>
 	<key>eight.sups</key>
@@ -998,6 +1014,8 @@
 	<string>firsttonechinese.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>five.lc</key>
+	<string>five.lc.glif</string>
 	<key>five.sinf</key>
 	<string>five.sinf.glif</string>
 	<key>five.sups</key>
@@ -1008,8 +1026,12 @@
 	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
+	<key>florin.lc</key>
+	<string>florin.lc.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>four.lc</key>
+	<string>four.lc.glif</string>
 	<key>four.sinf</key>
 	<string>four.sinf.glif</string>
 	<key>four.sups</key>
@@ -1050,6 +1072,8 @@
 	<string>gscript.glif</string>
 	<key>guarani</key>
 	<string>guarani.glif</string>
+	<key>guarani.lc</key>
+	<string>guarani.lc.glif</string>
 	<key>guillemotleft</key>
 	<string>guillemotleft.glif</string>
 	<key>guillemotright</key>
@@ -1144,6 +1168,8 @@
 	<string>indexupright.salt_outline.glif</string>
 	<key>indianrupee</key>
 	<string>indianrupee.glif</string>
+	<key>indianrupee.lc</key>
+	<string>indianrupee.lc.glif</string>
 	<key>infinity</key>
 	<string>infinity.glif</string>
 	<key>integral</key>
@@ -1182,6 +1208,8 @@
 	<string>lessequal.glif</string>
 	<key>lira</key>
 	<string>lira.glif</string>
+	<key>lira.lc</key>
+	<string>lira.lc.glif</string>
 	<key>liter</key>
 	<string>liter.glif</string>
 	<key>llinebelow</key>
@@ -1220,6 +1248,8 @@
 	<string>nacute.glif</string>
 	<key>naira</key>
 	<string>naira.glif</string>
+	<key>naira.lc</key>
+	<string>naira.lc.glif</string>
 	<key>napostrophe</key>
 	<string>napostrophe.glif</string>
 	<key>ncaron</key>
@@ -1232,6 +1262,8 @@
 	<string>ndotbelow.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>nine.lc</key>
+	<string>nine.lc.glif</string>
 	<key>nine.sinf</key>
 	<string>nine.sinf.glif</string>
 	<key>nine.sups</key>
@@ -1244,6 +1276,8 @@
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
+	<key>numbersign.lc</key>
+	<string>numbersign.lc.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>oacute</key>
@@ -1296,6 +1330,8 @@
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>one.lc</key>
+	<string>one.lc.glif</string>
 	<key>one.sinf</key>
 	<string>one.sinf.glif</string>
 	<key>one.sups</key>
@@ -1346,8 +1382,12 @@
 	<string>perthousand.glif</string>
 	<key>peseta</key>
 	<string>peseta.glif</string>
+	<key>peseta.lc</key>
+	<string>peseta.lc.glif</string>
 	<key>peso</key>
 	<string>peso.glif</string>
+	<key>peso.lc</key>
+	<string>peso.lc.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
 	<key>plus</key>
@@ -1414,6 +1454,8 @@
 	<string>rlinebelow.glif</string>
 	<key>ruble</key>
 	<string>ruble.glif</string>
+	<key>ruble.lc</key>
+	<string>ruble.lc.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sacute</key>
@@ -1442,6 +1484,8 @@
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>seven.lc</key>
+	<string>seven.lc.glif</string>
 	<key>seven.sinf</key>
 	<string>seven.sinf.glif</string>
 	<key>seven.sups</key>
@@ -1450,6 +1494,8 @@
 	<string>seveneighths.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>six.lc</key>
+	<string>six.lc.glif</string>
 	<key>six.sinf</key>
 	<string>six.sinf.glif</string>
 	<key>six.sups</key>
@@ -1462,6 +1508,8 @@
 	<string>space.tab_en.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
+	<key>sterling.lc</key>
+	<string>sterling.lc.glif</string>
 	<key>summation</key>
 	<string>summation.glif</string>
 	<key>t</key>
@@ -1482,6 +1530,8 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three.lc</key>
+	<string>three.lc.glif</string>
 	<key>three.sinf</key>
 	<string>three.sinf.glif</string>
 	<key>three.sups</key>
@@ -1502,8 +1552,12 @@
 	<string>trademark.glif</string>
 	<key>turkishlira</key>
 	<string>turkishlira.glif</string>
+	<key>turkishlira.lc</key>
+	<string>turkishlira.lc.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>two.lc</key>
+	<string>two.lc.glif</string>
 	<key>two.sinf</key>
 	<string>two.sinf.glif</string>
 	<key>two.sups</key>
@@ -1726,6 +1780,8 @@
 	<string>ydotbelow.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>yen.lc</key>
+	<string>yen.lc.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
 	<key>yhookabove</key>
@@ -1744,6 +1800,8 @@
 	<string>zdotbelow.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
+	<key>zero.lc</key>
+	<string>zero.lc.glif</string>
 	<key>zero.sinf</key>
 	<string>zero.sinf.glif</string>
 	<key>zero.sups</key>
