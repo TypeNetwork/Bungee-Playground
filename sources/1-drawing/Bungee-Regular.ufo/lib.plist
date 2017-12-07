@@ -7713,6 +7713,35 @@
 		<string>uni27A1.n</string>
 		<string>ytilde</string>
 		<string>apple</string>
+		<string>eight.lc</string>
+		<string>dong.lc</string>
+		<string>dollar.lc</string>
+		<string>zero.lc</string>
+		<string>one.lc</string>
+		<string>guarani.lc</string>
+		<string>seven.lc</string>
+		<string>naira.lc</string>
+		<string>numbersign.lc</string>
+		<string>four.lc</string>
+		<string>five.lc</string>
+		<string>ruble.lc</string>
+		<string>six.lc</string>
+		<string>peseta.lc</string>
+		<string>peso.lc</string>
+		<string>colonsign.lc</string>
+		<string>yen.lc</string>
+		<string>indianrupee.lc</string>
+		<string>sterling.lc</string>
+		<string>lira.lc</string>
+		<string>cent.lc</string>
+		<string>two.lc</string>
+		<string>three.lc</string>
+		<string>turkishlira.lc</string>
+		<string>nine.lc</string>
+		<string>Euro.lc</string>
+		<string>florin.lc</string>
+		<string>currency.lc</string>
+		<string>cedi.lc</string>
 	</array>
 </dict>
 </plist>
