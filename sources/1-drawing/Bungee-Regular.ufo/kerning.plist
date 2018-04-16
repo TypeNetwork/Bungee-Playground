@@ -558,9 +558,9 @@
 		<integer>-50</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-70</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-20</integer>
-		<key>nine.lc</key>
+		<key>nine</key>
 		<integer>-20</integer>
 		<key>quoteleft.salt</key>
 		<integer>-70</integer>
@@ -568,7 +568,7 @@
 		<integer>-70</integer>
 		<key>registered</key>
 		<integer>-50</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
 		<key>space</key>
 		<integer>-10</integer>
@@ -585,11 +585,11 @@
 		<integer>-10</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-20</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-20</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
-		<key>three.lc</key>
+		<key>three</key>
 		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_guillemotleft</key>
@@ -609,29 +609,29 @@
 		<integer>-10</integer>
 		<key>@MMK_R_Y.salt</key>
 		<integer>-10</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-10</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-20</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
-		<key>three.lc</key>
+		<key>three</key>
 		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_minute</key>
 	<dict>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_plus</key>
 	<dict>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-10</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-20</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
-		<key>three.lc</key>
+		<key>three</key>
 		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_quoteleft</key>
@@ -646,9 +646,9 @@
 		<integer>-10</integer>
 		<key>@MMK_R_comma</key>
 		<integer>-50</integer>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-10</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-10</integer>
 		<key>questiondown</key>
 		<integer>-40</integer>
@@ -669,9 +669,9 @@
 		<integer>-10</integer>
 		<key>@MMK_R_comma</key>
 		<integer>-70</integer>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-10</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-10</integer>
 		<key>space</key>
 		<integer>-10</integer>
@@ -688,11 +688,11 @@
 		<integer>-50</integer>
 		<key>@MMK_R_Y.salt</key>
 		<integer>-50</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-20</integer>
-		<key>nine.lc</key>
+		<key>nine</key>
 		<integer>-20</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_quotesingle</key>
@@ -705,12 +705,12 @@
 		<integer>-25</integer>
 		<key>@MMK_R_X</key>
 		<integer>-10</integer>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-10</integer>
 	</dict>
-	<key>Euro.lc</key>
+	<key>Euro</key>
 	<dict>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-20</integer>
 	</dict>
 	<key>ampersand</key>
@@ -751,30 +751,30 @@
 		<integer>-15</integer>
 		<key>@MMK_R_Y.salt</key>
 		<integer>-25</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-35</integer>
-		<key>nine.lc</key>
+		<key>nine</key>
 		<integer>-20</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
 	</dict>
 	<key>bullet</key>
 	<dict>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-20</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
 	</dict>
 	<key>degree</key>
 	<dict>
 		<key>@MMK_R_comma</key>
 		<integer>-50</integer>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-20</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-20</integer>
 	</dict>
-	<key>eight.lc</key>
+	<key>eight</key>
 	<dict>
 		<key>@MMK_R_minute</key>
 		<integer>-10</integer>
@@ -792,7 +792,7 @@
 		<integer>-20</integer>
 		<key>degree</key>
 		<integer>-20</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-10</integer>
 		<key>question</key>
 		<integer>-10</integer>
@@ -800,31 +800,31 @@
 		<integer>-30</integer>
 		<key>quoteright.salt</key>
 		<integer>-30</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-10</integer>
-		<key>three.lc</key>
+		<key>three</key>
 		<integer>-10</integer>
 	</dict>
-	<key>five.lc</key>
+	<key>five</key>
 	<dict>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-10</integer>
 	</dict>
 	<key>greater</key>
 	<dict>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-10</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-30</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
 	</dict>
-	<key>nine.lc</key>
+	<key>nine</key>
 	<dict>
-		<key>three.lc</key>
+		<key>three</key>
 		<integer>-5</integer>
 	</dict>
-	<key>one.lc</key>
+	<key>one</key>
 	<dict>
 		<key>@MMK_R_dash</key>
 		<integer>-40</integer>
@@ -848,7 +848,7 @@
 		<integer>-20</integer>
 		<key>degree</key>
 		<integer>-60</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-30</integer>
 		<key>less</key>
 		<integer>-30</integer>
@@ -867,9 +867,9 @@
 		<integer>-20</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-10</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-20</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-20</integer>
 	</dict>
 	<key>questiondown</key>
@@ -880,11 +880,11 @@
 		<integer>-10</integer>
 		<key>@MMK_R_Y.salt</key>
 		<integer>-10</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-20</integer>
-		<key>nine.lc</key>
+		<key>nine</key>
 		<integer>-20</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-10</integer>
 	</dict>
 	<key>quoteleft.salt</key>
@@ -899,9 +899,9 @@
 		<integer>-10</integer>
 		<key>@MMK_R_comma</key>
 		<integer>-70</integer>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-30</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-10</integer>
 		<key>questiondown</key>
 		<integer>-50</integer>
@@ -922,9 +922,9 @@
 		<integer>-10</integer>
 		<key>@MMK_R_comma</key>
 		<integer>-70</integer>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-30</integer>
-		<key>one.lc</key>
+		<key>one</key>
 		<integer>-10</integer>
 		<key>space</key>
 		<integer>-10</integer>
@@ -934,13 +934,13 @@
 		<key>@MMK_R_comma</key>
 		<integer>-50</integer>
 	</dict>
-	<key>seven.lc</key>
+	<key>seven</key>
 	<dict>
 		<key>@MMK_R_comma</key>
 		<integer>-40</integer>
 		<key>@MMK_R_guillemotleft</key>
 		<integer>-10</integer>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-5</integer>
 		<key>greater</key>
 		<integer>-10</integer>
@@ -949,7 +949,7 @@
 		<key>slash</key>
 		<integer>-30</integer>
 	</dict>
-	<key>six.lc</key>
+	<key>six</key>
 	<dict>
 		<key>@MMK_R_minute</key>
 		<integer>-10</integer>
@@ -961,7 +961,7 @@
 		<integer>-10</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-10</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-10</integer>
 		<key>question</key>
 		<integer>-10</integer>
@@ -969,9 +969,9 @@
 		<integer>-30</integer>
 		<key>quoteright.salt</key>
 		<integer>-30</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-15</integer>
-		<key>three.lc</key>
+		<key>three</key>
 		<integer>-5</integer>
 	</dict>
 	<key>slash</key>
@@ -984,7 +984,7 @@
 		<integer>-10</integer>
 		<key>@MMK_R_X</key>
 		<integer>-10</integer>
-		<key>eight.lc</key>
+		<key>eight</key>
 		<integer>-20</integer>
 	</dict>
 	<key>space</key>
@@ -1006,7 +1006,7 @@
 		<key>quoteleft.salt</key>
 		<integer>-10</integer>
 	</dict>
-	<key>three.lc</key>
+	<key>three</key>
 	<dict>
 		<key>@MMK_R_minute</key>
 		<integer>-20</integer>
@@ -1020,7 +1020,7 @@
 		<integer>-20</integer>
 		<key>degree</key>
 		<integer>-20</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-10</integer>
 		<key>less</key>
 		<integer>-20</integer>
@@ -1028,7 +1028,7 @@
 		<integer>-40</integer>
 		<key>quoteright.salt</key>
 		<integer>-30</integer>
-		<key>seven.lc</key>
+		<key>seven</key>
 		<integer>-10</integer>
 	</dict>
 	<key>trademark</key>
@@ -1036,18 +1036,18 @@
 		<key>@MMK_R_comma</key>
 		<integer>-30</integer>
 	</dict>
-	<key>two.lc</key>
+	<key>two</key>
 	<dict>
 		<key>@MMK_R_guillemotleft</key>
 		<integer>-10</integer>
-		<key>four.lc</key>
+		<key>four</key>
 		<integer>-5</integer>
 		<key>less</key>
 		<integer>-10</integer>
 	</dict>
-	<key>zero.lc</key>
+	<key>zero</key>
 	<dict>
-		<key>three.lc</key>
+		<key>three</key>
 		<integer>-5</integer>
 	</dict>
 </dict>
